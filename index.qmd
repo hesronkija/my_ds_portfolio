@@ -3,14 +3,12 @@ title: "About Me"
 subtitle: "My Data Science Portfolio"
 ---
 
-# Title 1 Header
+# Summary
 
-Welcome to my Data Science Portfolio! I'm [Your Name], a passionate data scientist with a strong background in [your field of expertise]. I enjoy exploring data, building models, and creating insightful visualizations to drive data-driven decisions.
+Welcome to my Data Science Portfolio! I'm Hesron Kija, a passionate data scientist with a strong background in Computer Science. I enjoy exploring data, building models, and creating insightful visualizations to drive data-driven decisions.
 
-## Title 2 Header
+### Currentlly
 
-### About Me
-
-I'm currently pursuing a [degree/position] at [University/Company], where I focus on [brief description of your current work or studies]. My interests include machine learning, data visualization, and statistical analysis. In my free time, I enjoy [hobbies or personal interests].
+I'm currently pursuing a Computer Science Degree at Brigham Young University Idaho, where I focus on [brief description of your current work or studies]. My interests include machine learning, data visualization, and statistical analysis.
 
 [MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
