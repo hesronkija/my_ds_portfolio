@@ -1,89 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hesron Kija's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Hesron Kija
+Computer Science Student, Brigham Young University - Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:kij23001@byui.edu">kij23001@byui.edu</a>
+| <a href="https://linkedin.com/in/hesron-kija">LinkedIn Profile</a>
 </div>
 
+## Summary
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Computer Science student with a strong foundation in Python, JavaScript, C#, Java, and SQL, and hands-on experience in biomedical equipment engineering. Proven ability to lead teams, solve technical problems, and deliver measurable results. Seeking a campus job to apply technical skills and contribute to innovative projects.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`April 2023 - Present`
+__Brigham Young University - Idaho, Rexburg, ID__
+- BS, Computer Science
+- Relevant coursework: Python, Teamwork, and Growth & Grit
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`October 2019 - July 2022`
+__Dar es Salaam Institute of Technology, Dar es Salaam, Tanzania__
+- Dip, Biomedical Equipment Engineering
+- Relevant coursework: Calculus, Teamwork, Communication, and Business Management
 
-- Sizar
+## Work Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`September 2023 - Present`
+__Student Testing Center Proctor__
+Student Testing Center | Brigham Young University - Idaho, Rexburg, ID
+- Supervising students during examinations, ensuring adherence to testing policies and preventing academic dishonesty.
+- Preparing and distributing testing materials, managing an organized and efficient testing environment.
+- Addressing and resolving student inquiries and technical issues during exams, ensuring a smooth testing process.
 
-- Fellow
+`April 2023 - July 2023`
+__Early Morning Custodian__
+Student Health Center | Brigham Young University - Idaho, Rexburg, ID
+- Teamwork and role-playing.
+- Cleaning and maintaining the Student Health Center.
+- Solid time management required.
 
+## Skills
 
+- Programming Languages: Python, JavaScript, C#, Java, SQL
+- Soft Skills: Time management, Decision making, Organizational skills with attention to detail, Multitasking, Effective team collaboration
+- Tools: Microsoft Office Suite
 
-## Awards
+## Experiential Learning Projects
 
-`2012`
-President, *Royal Society*, London, UK
+`August 2021 - October 2021`
+__Biomedical Technician Assistant__
+Industrial Practical Training | Muhimbili National Hospital, Dar es Salaam, Tanzania
+- Led a team of 5 technicians to repair and maintain 50+ medical devices, reducing equipment downtime by 30% and improving patient care efficiency.
+- Conducted monthly preventive maintenance, ensuring 100% compliance with safety standards.
+- Created comprehensive medical device inventories for hospital wards, ensuring efficient tracking and accessibility throughout the three months.
+- Performed monthly Planned Preventive Maintenance (PPM) for medical devices throughout the three months.
 
-Associate, *French Academy of Science*, Paris, France
+## Extra-curriculars
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Developed a Google Chrome extension during the Utah State University Hackathon, enabling users to access detailed website information through collaborative team efforts.
+- Mentored students as part of the Heber J. Grant Peer Mentor Program, offering academic and personal guidance to enhance performance and goal achievement.
